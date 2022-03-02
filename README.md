@@ -1,8 +1,8 @@
 # VRC Assistant BETA
 
-VRC Assistant is a helper tool for VRC. Upon selecting an aircraft on the scope, VRC Assistant loads and shows you a variety of information regarding the plane.
+***This application is currently in BETA. Please expect and report any issues you may experience***
 
-*This application is currently in BETA. Please expect and report any issues you may experience*
+VRC Assistant is a helper tool for VRC. Upon selecting an aircraft on the scope, VRC Assistant loads and shows you a variety of information regarding the aircraft.
 
 Currently the following information is displayed:
 
@@ -21,9 +21,9 @@ Currently the following information is displayed:
 ## Using
 * Start VRC first **Important!**
 * Start the application (if not already started)
-* The application will check for updates and download them if available
+* The application will check for updates and download & install any if available
 * You'll now get asked to select an aircraft on the scope in VRC and to copy and paste **all** information shown at the bottom of the *Departures & arrivals* screen within VRC. Click [here](https://imgur.com/a/gCKUQ8l) for a screenshot of what text to copy.
-* You will probably have to do this twice or possibly 3 times. **Make sure to copy all lines**.
+* You will probably have to do this twice or possibly 3 times (WITH DIFFERENT AIRCRAFT SELECTED). **Make sure to copy all lines**.
 * When the scan is complete the main window will open and you're ready to go
 * To move the window, click & drag the move icon on the top-right of the window (second icon from the right)
 * To reset the memory scanner, click the reset icon on the top-right of the window (third icon from the right)
