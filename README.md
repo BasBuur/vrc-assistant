@@ -17,7 +17,6 @@ Currently the following information is displayed:
 # Installation
 * Download the installer from the releases section on this page
 * Run the installer. The application will install & open automatically
-* When you 
 
 # Using
 * Start VRC first **Important!**
