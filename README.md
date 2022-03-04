@@ -1,8 +1,8 @@
 # VRC Assistant BETA
 
-***This application is currently in BETA. Please expect and report any issues you may experience***
+***This application is currently in BETA. Please report any issues you may experience***
 
-VRC Assistant is a helper tool for VRC. Upon selecting an aircraft on the scope, VRC Assistant loads and shows you a variety of information regarding the aircraft.
+VRC Assistant is a helper tool for VRC. Upon selecting an aircraft on the VRC scope, VRC Assistant automatically loads and shows you a variety of information regarding the aircraft.
 
 Currently the following information is displayed:
 
@@ -10,29 +10,26 @@ Currently the following information is displayed:
 * Airline phonetic name (if available)
 * Aircraft info (type, engine configuration) (if available)
 * Direction of flight (calculated based on the origin & destination airport)
-* Color-coded flightplan route (hovering over VOR's shows the full VOR name)
+* Color-coded flightplan route (*hovering over VOR's shows the full VOR name*)
 * Origin & desination airports (ICAO, city & full airport name)
-* Preferred routes for the filed origin & destination airport)
+* Preferred routes (FAA + ZBW/BVA) for the filed origin & destination airport. The copy icon behind each route copies the route to your clipboard
 
 ## Installation
-* Download the installer from the releases section on this page
+* Download the installer from the releases section on this page (right-hand side under 'Releases' - download the setup .exe)
 * Run the installer. The application will install & open automatically
 
-## Using
-* Start VRC first **Important!**
-* Start the application (if not already started)
+## Using (it's **really** simple!)
+* Start the application (if not already started - after installation you can find it on your desktop & start menu as 'VRC Assistant')
 * The application will check for updates and download & install any if available
-* You'll now get asked to select an aircraft on the scope in VRC and to copy and paste **all** information shown at the bottom of the *Departures & arrivals* screen within VRC. Click [here](https://imgur.com/a/gCKUQ8l) for a screenshot of what text to copy.
-* You will probably have to do this twice or possibly 3 times (WITH DIFFERENT AIRCRAFT SELECTED). **Make sure to copy all lines**.
-* When the scan is complete the main window will open and you're ready to go
-* To move the window, click & drag the move icon on the top-right of the window (second icon from the right)
-* To reset the memory scanner, click the reset icon on the top-right of the window (third icon from the right)
+* Start VRC if you haven't already
+* Select an aircraft on the VRC scope. All information should now load in the assistant.
+* **Note**: You can also click on an aircraft's data block text to load the information. This will not select the aircraft within VRC but does allow you to peek at the information in the assistant!
+* You can move the Assistant by click-and-dragging on the move icon on the top-right of the assistant
+* You can resize the window by click-and-dragging from one of the assistant window corners
 
 ## Notes
 * Please report any issues or feedback. You can create an issue here on you can contact me on Discord: BasilBurrito#4468
-* Currently the preferred routes are loaded from the BVA (ZBW) IDS system. Therefore it shows all FAA routes and the BVA ARTCC routes. If demand is high enough I'd be happy to integrate other ARTCC API's to show those as well
-* VRC does not offer an official way to get the information that this application needs. Therefore this application basically combs through the VRC memory space to find the information it needs. This ain't a perfect way of doing things but currently the only way and works quite well.
-* For unknown reasons VRC or the Windows kernel sometimes decides it'd be fun to move around the memory that's used by this tool. If this happens the tool tries to recover automatically and find the new memory location. If it's unable to do so you'll notice that selecting a new aircraft no longer loads the new data. If this happens try clicking on the arrow between the 2 airport input boxes. Then, select another aircraft. Still not working? Click the arrow again and select another aircraft. Still no good? Click the reset icon on the top-right of the window to restart the memory scanner.
+* Currently the preferred routes are loaded from the BVA (ZBW) IDS system. Therefore it shows all FAA routes and the BVA ARTCC routes. If demand is high enough I'd be happy to integrate other ARTCC API's to show those as well. Please contact me and let me know who I should contact to get the information I need
 
 ## Support / feedback
-Please create an issue here or contact BasilBurrito#4468 on Discord for support, I'd be happy to help
+Please [contact me on Discord](https://discordapp.com/users/290912506703118347) for support or feedback
