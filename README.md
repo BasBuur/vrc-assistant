@@ -4,6 +4,8 @@
 
 VRC Assistant is a helper tool for VRC. Upon selecting an aircraft on the VRC scope, VRC Assistant automatically loads and shows you a variety of information regarding the aircraft.
 
+[DOWNLOAD](https://github.com/BasBuur/vrc-assistant/releases/download/latest/VRC.Assistant.Setup.0.3.0.exe)
+
 Currently the following information is displayed:
 
 * Callsign
