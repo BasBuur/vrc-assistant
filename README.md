@@ -26,6 +26,7 @@ Currently the following information is displayed:
 * **Note**: You can also click on an aircraft's data block text to load the information. This will not select the aircraft within VRC but does allow you to peek at the information in the assistant!
 * You can move the Assistant by click-and-dragging on the move icon on the top-right of the assistant
 * You can resize the window by click-and-dragging from one of the assistant window corners
+* You can zoom in and out with the + and - buttons on the top-right of the assistant
 
 ## Notes
 * Please report any issues or feedback. You can create an issue here on you can contact me on Discord: BasilBurrito#4468
