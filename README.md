@@ -38,3 +38,6 @@ Currently the following information is displayed:
 
 ## Support / feedback
 Please [contact me on Discord](https://discordapp.com/users/290912506703118347) for support or feedback
+
+## Source Code?
+Unfortunately I'm unable to share the source code of VRC Assistant. This has to do with a proprietary file format and compiler that I used which I'm not allowed to share. Initially I started this project just for myself, hence I didn't see this as a problem. It's an Electron app so the (compiled) JS code is available in the ASAR archive in case you want to make sure it doesn't do anything fishy. If you do not feel comfortable running an executable on your PC (which is fair enough!) please don't.
