@@ -1,6 +1,6 @@
 # VRC Assistant BETA
 
-<a href="https://github.com/BasBuur/vrc-assistant/releases/download/latest/VRC.Assistant.Setup.0.3.0.exe"><img src="https://user-images.githubusercontent.com/7340024/157321916-c2ecd6b9-b9d0-422f-90da-bfd5bb6bc992.png" width="200"/></a>
+<a href="https://github.com/BasBuur/vrc-assistant/releases/download/latest/VRC.Assistant.Setup.0.4.0.exe"><img src="https://user-images.githubusercontent.com/7340024/157321916-c2ecd6b9-b9d0-422f-90da-bfd5bb6bc992.png" width="200"/></a>
 
 <img src="https://user-images.githubusercontent.com/7340024/156903274-0d016fd1-f71a-464a-9dc4-079dcddf8113.png" width="350" />
 
